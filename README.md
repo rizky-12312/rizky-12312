@@ -68,4 +68,4 @@ Yuk saling support di GitHub! 🚀
 
 ---
 
-<p align= center><blockquote><i> "Whatever will be will be"</i> ✨</blockquote><p/>
+<p align=center>"Whatever will be will be" ✨ </p> 
