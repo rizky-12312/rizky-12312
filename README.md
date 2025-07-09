@@ -68,4 +68,4 @@ Yuk saling support di GitHub! 🚀
 
 ---
 
-<blockquote><i>"Whatever will be will be"</i> – Motto belajar saya ✨</blockquote>
+<p align= center><blockquote><i> "Whatever will be will be"</i> ✨</blockquote><p/>
