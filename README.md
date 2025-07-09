@@ -1,7 +1,7 @@
 ![rizky-12312](img/github-header-image.png)
 
 
-<!--
+<!--  
 **rizky-12312/rizky-12312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -68,4 +68,4 @@ Yuk saling support di GitHub! 🚀
 
 ---
 
-<blockquote><i>"Progress, not perfection."</i> – Motto belajar saya ✨</blockquote>
+<blockquote><i>"Whatever will be will be"</i> – Motto belajar saya ✨</blockquote>
