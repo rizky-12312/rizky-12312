@@ -16,17 +16,56 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently **working on karyain group**
-- 🌱 I’m currently learning **basic coding**
-##### Fav Game
-<img src="https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white" />
-<img src="https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white" />
-<img src="{BadgeURLHere}" />
-<img src="{BadgeURLHere}" />
-<img src="{BadgeURLHere}" />
-<img src="{BadgeURLHere}" />
-<img src="{BadgeURLHere}" />
-<img src="{BadgeURLHere}" />
+<div align="center" style="background-color:#f5f5f5; padding: 20px; border-radius: 10px;">
 
-##### Connect with me
-![https://instagram.com/kyy_rmdhan0](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+# ✨ Hello, I'm Reikikun! 👋
+
+Welcome to my GitHub profile!  
+I'm just a curious soul exploring the world of technology, creativity, and everything in between 😄
+
+</div>
+
+---
+
+## 🎮 Favorite Games:
+- 🎯 **Valorant**  
+- 🛡️ **Mobile Legends**  
+- 🐤 **Pou** (yes, the OG game from childhood!)
+
+---
+
+## 🎧 Favorite Bands / Musicians:
+🎵 Hindia  
+🎵 The Beatles  
+🎵 Oasis  
+🎵 Perunggu  
+🎵 Rex Orange County
+
+---
+
+## 🏀 My Hobbies:
+- 🏀 Main basket bareng temen  
+- 🎮 Main game pas gabut  
+- ⚽ Sepak bola tiap weekend  
+- 🎸 Gitaran sambil nyanyi (walau kadang fals 😅)
+
+---
+
+## 💻 Things I'm Learning:
+- 💾 Dasar-dasar database  
+- 🧠 Dasar coding pakai **VSCode**  
+- 🛠️ Bikin-bikin proyek kecil buat latihan
+
+---
+
+## 👀 About Me:
+Saya adalah seseorang yang suka mencoba hal baru dan terus belajar.  
+Di dunia digital ini, saya sedang mulai mengeksplorasi dunia **pemrograman**, **desain**, dan **teknologi** lainnya.  
+Semangat belajar adalah bagian dari hidup saya!
+
+Saya percaya bahwa **belajar tidak harus langsung jago**, yang penting mulai dulu dari yang bisa.  
+Yuk saling support di GitHub! 🚀
+
+---
+
+<blockquote><i>"Progress, not perfection."</i> – Motto belajar saya ✨</blockquote>
